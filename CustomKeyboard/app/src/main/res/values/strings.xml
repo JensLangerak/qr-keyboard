@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Custom Keyboard</string>
+    <string name="waiting_for_scan">Waiting for scan</string>
+    <string name="scan">Scan</string>
+    <string name="use">Use</string>
+    <string name="delete">Delete</string>
+    <string name="clear">Clear</string>
+    <string name="show_scanned_data">Show scanned data</string>
+    <string name="set_the_key">Set the key:</string>
+    <string name="store_key">Store key</string>
+    <string name="missing_camera_permission">Missing camera permission.</string>
+    <string name="no_key">No key stored</string>
+    <string name="setup_correct">Keyboard is setup correctly!</string>
+</resources>
